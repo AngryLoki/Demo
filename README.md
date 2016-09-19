@@ -1,0 +1,2 @@
+# Demo
+Demo PhoneGap application
